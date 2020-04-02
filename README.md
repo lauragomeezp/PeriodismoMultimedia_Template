@@ -58,7 +58,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Personas/Usuarios**  El público objetivo es toda la comunidad de Twitter. Podría decirse que el usuario al que va dirigido es aquel que tiene interés por el mundo Disney, sin embargo, no se considera necesario ser fan o aficionado de estos cuentos para pasar un rato divertido leyendo los relatos. 
 
-**Estilo de narración**  Se va a hacer uso únicamente de Twitter. Es el medio perfecto para publicar relatos cortos mediante un hilo en el que el usuario puede participar e interaccionar. Es un estilo de narración simple que no requiere conocimientos de uso complicados y que está directamente conectado con el usuario. No se descarta una cultura colaborativa en la que sea el propio usuario quien ofrezca una historia. 
+**Estilo de narración**  Narrativa literaria publicada únicamente en Twitter. Es el medio perfecto para publicar relatos cortos mediante un hilo en el que el usuario puede participar e interaccionar. Es un estilo de narración simple que no requiere conocimientos de uso complicados y que está directamente conectado con el usuario. No se descarta una cultura colaborativa en la que sea el propio usuario quien ofrezca una historia. 
 
 Es una narración accesible que incluirá imágenes, vídeos, GIFs y emoticonos para darle dinamismo a la lectura y atraer visualmente al usuario. Se fomentará la participación y la compartición con sus 'followers'.
 
