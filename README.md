@@ -9,23 +9,22 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : La otra versión
 
-**Autor(es)** ______________
-
-**Resumen** : _________
+**Autor(es)** Laura Gómez
+**Resumen** : Hilo narrativo en Twitter sobre los cuentos Disney contados desde la perspectiva del supuesto villano. Utilización de GIFs, imágenes y vídeos para completar el texto. Se permite la colaboración del usuario. 
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): "No todo es lo que parece" / "Hay que conocer todas las versiones de la historia"
 
-**Hashtag**  ___
+**Hashtag**  #NoSonVillanos 
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 2020
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia): Twitter
 
 
 *  :octocat: (github url) 
