@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## La otra versión de los cuentos Disney  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,18 +9,19 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : La otra versión
+**Titulo** : La otra versión de los cuentos Disney
 
 **Autor(es)** Laura Gómez
+
 **Resumen** : Hilo narrativo en Twitter sobre los cuentos Disney contados desde la perspectiva del supuesto villano. Utilización de GIFs, imágenes y vídeos para completar el texto. Se permite la colaboración del usuario. 
 
 **logotipo** :  ________
 
 **Slogan** (frase motivadora/inspiradora): "No todo es lo que parece" / "Hay que conocer todas las versiones de la historia"
 
-**Hashtag**  #NoSonVillanos 
+**Hashtag**  #NoSonVillanosDisney 
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**   CC BY
 
 **Fecha** : 2020
 
@@ -30,7 +31,6 @@ Univesidad de Granada
 *  :octocat: (github url) 
 * Twitter 
 * ... 
-
 
 
 --- 
@@ -43,26 +43,24 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**   (Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+* @LadyDistopia (https://twitter.com/LadyDistopia) es un proyecto que muestra como de forma breve y concisa se puede crear una comunidad de usuarios interesados en una narración que pueden compartir, comentar o incluso completar. De este ejemplo obtuve la idea de utilizar únicamente Twitter para realizar un relato corto que llegue a gran público. 
+
+* @365microcuentos (https://twitter.com/365Microcuentos) Similar al anterior, consiste en contar todos los días breves historias de diferentes temáticas. A pesar de que cuenta con más plataformas, es Twitter el medio por el que recibe más visitas. Una vez más, se demuestra que esta es la red social perfecta para enganchar al usuario con cortos relatos que permiten la participación del usuario. Así sucedió también con @manuelbartual (https://twitter.com/ManuelBartual) que como ha comentado Sergio García en Trello, mantuvo en vilo a todo Twitter con un relato de misterio. 
+
+* Ambos proyectos muestran que es recomendable el uso de GIFs, imágenes, vídeos e incluso de emoticonos para complementar el texto y darle un diseño más visual. 
 
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** Con este proyecto se tiene la oportunidad de relatar las versiones que los cuentos clásicos de Disney han omitido. Se trata de darle voz a los villanos para así entender su malvado comportamiento en los libros y películas que han marcado nuestra infancia y juventud. 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** El interés personal por los cuentos Disney ha motivado la idea del proyecto. Basándose en la película 'Maléfica' se ha querido visibilizar las historias de otros muchos personajes que interpretan, sin serlo, el papel de villano en los cuentos Disney.
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  El público objetivo es toda la comunidad de Twitter. Podría decirse que el usuario al que va dirigido es aquel que tiene interés por el mundo Disney, sin embargo, no se considera necesario ser fan o aficionado de estos cuentos para pasar un rato divertido leyendo los relatos. 
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+**Estilo de narración**  Se va a hacer uso únicamente de Twitter. Es el medio perfecto para publicar relatos cortos mediante un hilo en el que el usuario puede participar e interaccionar. Es un estilo de narración simple que no requiere conocimientos de uso complicados y que está directamente conectado con el usuario. No se descarta una cultura colaborativa en la que sea el propio usuario quien ofrezca una historia. 
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
-
+Es una narración accesible que incluirá imágenes, vídeos, GIFs y emoticonos para darle dinamismo a la lectura y atraer visualmente al usuario. Se fomentará la participación y la compartición con sus 'followers'.
 
 
 ### Etapa 2: Prototipar / productos 
