@@ -16,7 +16,7 @@ Univesidad de Granada
 **Resumen** : Los cuentos Disney siempre se han narrado desde la perspectiva de sus protagonistas, en su mayoría, príncipes y princesas que sufren las amenazas de sus enemigos. Sin embargo, esta vez, se contará la versión de los villanos. En este proyecto se ha querido desvelar las historias personales de estos personajes que se han convertido en seres malvados y perversos. Con el uso de un portal web y la red social Twitter, se difundirán las publicaciones y se recibirá el feedback de los lectores, quienes pueden aportar ideas y sugerencias para los próximos relatos. Se trata de una iniciativa cuyo objetivo es entretener y hacer reflexionar sobre las diferentes perspectivas que puede llegar a tener una misma historia.   
 
 **logotipo** : 
-![logo] (https://imgur.com/a/TU2wxhx) 
+![logo](https://imgur.com/a/TU2wxhx) 
 
 **Slogan** : "No todo es lo que parece"
 
@@ -107,6 +107,8 @@ El desarrollo de la idea, planificación y difusión no han resultado problemát
 
 El aspecto que mejoraría del proyecto sería la página web utilizada como base. Además, aunque considero que es un trabajo completo, siempre tiene opción de crecer. El blog puede albergar mucho contenido más (más publicaciones con historias, una playlist con las canciones de las películas mencionadas, un timeline con la cronología de las películas, etc.) Son ideas que se tienen en cuenta para madurar el proyecto. 
 
+Otro aspecto que puede hacer crecer al proyecto es la creación de perfil en Instagram y Facebook, las cuales se descartaron para optimizar el tiempo. En un futuro se puede reconsiderar esta opción. Además, dependiendo de la magnitud del contenido, se puede plantear la difusión en centros escolares. Es decir, se ampliaría el público objetivo, siendo los/as niños/as también usuarios del proyecto. Al fin y al cabo, es un tema bien conocido tanto por mayores como pequeños al que a ambos grupos va a entretener. 
+
 El tema escogido ha sido acertado, ya que, además de ser una aficción, ha conseguido una gran acogida. La mayor parte de la comunidad de Twitter, por no decir toda, ha visto una película Disney. Es una cuestión que une a los usuarios. Recordar a sus villanos favoritos es emotivo porque traslada al usuario a su infancia. Por ello, el tema del proyecto no se modificaría en un futuro. 
 
 
@@ -115,7 +117,7 @@ El tema escogido ha sido acertado, ya que, además de ser una aficción, ha cons
 
 En este proyecto podrían publicitarse aquellas empresas con productos Disney, desde calzado ropa y complementos, como Adidas, hasta los cuentos clásicos, como librerías. Es un espacio en el que cualquier producto relacionado con este mundo de fantasía puede publicitarse. La viabilidad de este hecho reside en el futuro éxito. Es una opción poco probable en esta fase, pero no se descarta un aumento de público y, por tanto, publicidad.  
 
-En esta etapa del trabajo, se descarta la colaboración entendida como elaboración de contenido, ya que actualmente se considera un esfuerzo accesible a una sola persona. 
+En esta etapa del trabajo, se descarta la colaboración entendida como elaboración de contenido, ya que actualmente es un esfuerzo accesible a una sola persona. Sin embargo, ya se invita al lector a aportar ideas y sugerencias. 
 
 ----
 
