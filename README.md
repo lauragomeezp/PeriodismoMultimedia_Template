@@ -9,28 +9,24 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : La otra versión de los cuentos Disney
+**Titulo** : La otra versión del cuento
 
 **Autor(es)** Laura Gómez
 
-**Resumen** : Hilo narrativo en Twitter sobre los cuentos Disney contados desde la perspectiva del supuesto villano. Utilización de GIFs, imágenes y vídeos para completar el texto. Se permite la colaboración del usuario. 
+**Resumen** : Los cuentos Disney siempre se han narrado desde la perspectiva de sus protagonistas, en su mayoría, príncipes y princesas que sufren las amenazas de sus enemigos. Sin embargo, esta vez, se contará la versión de los villanos. En este proyecto se ha querido desvelar las historias personales de estos personajes que se han convertido en seres malvados y perversos. Con el uso de un portal web y la red social Twitter, se difundirán las publicaciones y se recibirá el feedback de los lectores, quienes pueden aportar ideas y sugerencias para los próximos relatos. Se trata de una iniciativa cuyo objetivo es entretener y hacer reflexionar sobre las diferentes perspectivas que puede llegar a tener una misma historia.   
 
-**logotipo** :  ________
+**logotipo** : 
 
-**Slogan** (frase motivadora/inspiradora): "No todo es lo que parece" / "Hay que conocer todas las versiones de la historia"
+**Slogan** : "No todo es lo que parece"
 
-**Hashtag**  #NoSonVillanosDisney 
+**Hashtag**  #LaOtraVersion
 
 **Licencia**   CC BY
 
 **Fecha** : 2020
 
-**Medios** (donde se tiene presencia): Twitter
-
-
-*  :octocat: (github url) 
-* Twitter 
-* ... 
+**Medios** :Página web (Wix)
+            Twitter
 
 
 --- 
@@ -45,42 +41,41 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Investigación de campo**   (Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (https://twitter.com/LadyDistopia) es un proyecto que muestra como de forma breve y concisa se puede crear una comunidad de usuarios interesados en una narración que pueden compartir, comentar o incluso completar. De este ejemplo obtuve la idea de utilizar únicamente Twitter para realizar un relato corto que llegue a gran público. 
+* @LadyDistopia (https://twitter.com/LadyDistopia) es un proyecto que muestra como de forma breve y concisa se puede crear una comunidad de usuarios interesados en una narración que pueden compartir, comentar o incluso completar. De este ejemplo obtuve la idea de utilizar  Twitter para realizar un relato corto que llegue a gran público. 
 
 * @365microcuentos (https://twitter.com/365Microcuentos) Similar al anterior, consiste en contar todos los días breves historias de diferentes temáticas. A pesar de que cuenta con más plataformas, es Twitter el medio por el que recibe más visitas. Una vez más, se demuestra que esta es la red social perfecta para enganchar al usuario con cortos relatos que permiten la participación del usuario. Así sucedió también con @manuelbartual (https://twitter.com/ManuelBartual) que como ha comentado Sergio García en Trello, mantuvo en vilo a todo Twitter con un relato de misterio. 
 
 * Ambos proyectos muestran que es recomendable el uso de GIFs, imágenes, vídeos e incluso de emoticonos para complementar el texto y darle un diseño más visual. 
 
 
-**Necesidad/oportunidad** Con este proyecto se tiene la oportunidad de relatar las versiones que los cuentos clásicos de Disney han omitido. Se trata de darle voz a los villanos para así entender su malvado comportamiento en los libros y películas que han marcado nuestra infancia y juventud. 
+**Necesidad/oportunidad** Con este proyecto se tiene la oportunidad de relatar las versiones que los cuentos clásicos de Disney han omitido. Se trata de darle voz a los villanos para así entender su malvado comportamiento en los libros y películas que han marcado la infancia y juventud de miles de personas.
 
 **Motivación de la propuesta** El interés personal por los cuentos Disney ha motivado la idea del proyecto. Basándose en la película 'Maléfica' se ha querido visibilizar las historias de otros muchos personajes que interpretan, sin serlo, el papel de villano en los cuentos Disney.
 
-**Personas/Usuarios**  El público objetivo es toda la comunidad de Twitter. Podría decirse que el usuario al que va dirigido es aquel que tiene interés por el mundo Disney, sin embargo, no se considera necesario ser fan o aficionado de estos cuentos para pasar un rato divertido leyendo los relatos. 
+**Personas/Usuarios**  El público objetivo es todo aquel interesado en entretenerse un rato leyendo. Podría decirse que el usuario al que va dirigido es aquel que tiene interés por el mundo Disney, sin embargo, no se considera necesario ser fan o aficionado de estos cuentos para conocer la otra versión del cuento y divertirse leyendo estas nuevas historias.
 
-**Estilo de narración**  Narrativa literaria publicada únicamente en Twitter. Es el medio perfecto para publicar relatos cortos mediante un hilo en el que el usuario puede participar e interaccionar. Es un estilo de narración simple que no requiere conocimientos de uso complicados y que está directamente conectado con el usuario. No se descarta una cultura colaborativa en la que sea el propio usuario quien ofrezca una historia. 
-
-Es una narración accesible que incluirá imágenes, vídeos, GIFs y emoticonos para darle dinamismo a la lectura y atraer visualmente al usuario. Se fomentará la participación y la compartición con sus 'followers'.
+**Estilo de narración**  Narrativa literaria publicada en un portal web (Wix) y Twitter. Es una narración accesible a todo el público que incluye imágenes, imágenes interactivas, vídeos, GIFs y emoticonos para darle dinamismo a la lectura y atraer visualmente al usuario. Se fomenta la participación y la compartición del lector con sus 'followers'. Es un estilo divertido que pretende divertir al lector con un contenido multimedia gracioso. 
 
 
 ### Etapa 2: Prototipar / productos 
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+*Imagen visual.*  Para la creación del logo se ha usado Photoshop. Se trata de una imagen sencilla que incluye el slogan del proyecto. El dibujo que se incluye pretende resumir los valores del trabajo: fantasía y diversión. 
 
-* redes sociales (...) 
+*Redes sociales.* La única red social que se ha usado ha sido Twitter (@versiondisney), ya que es el medio perfecto para publicar relatos cortos mediante un hilo en el que el usuario puede participar e interaccionar. Esta plataforma no requiere conocimientos complejos de uso, además, alberga a una gran cantidad de usuarios en su comunidad. Twitter permite, igualmente, crear una cultura colaborativa en la que el propio usuario puede aportar una idea o elegir la próxima historia para relatar. Se adjunta, entonces, el enlace al perfil de Twitter: https://twitter.com/versiondisney 
 
-* publicidad: banner (... ) 
+*Página web.* Se ha elaborado un portal web que recoge las publicaciones con los relatos construídos tanto con texto como imágenes y GIFs. Se aprovecha esta página para introducir contenido dinámico y participativo. En el menú se incluyen: un apartado con vídeos de los villanos en sus respectivas películas, una votación en la que el usuario puede elegir el siguiente cuento (la votación está creada con Xoyondo, que envía la respuesta al email) y un collage de fotos de los villanos que al pinchar en él redirige al usuario a una lista (List.ly) en la que se enumeran todos los villanos de Disney por orden de estreno de las pleículas. Igualmente, en este blog, se explica el origen del proyecto y se facilita el contacto con el creador (Laura Gómez) a través de email y Twitter. Se adjunta, entonces, enlace a la página web: https://nosonvillanos.wixsite.com/lauragomez 
 
-* ...
+Todas las publicaciones del blog tienen hiperenlace a su correspondiente hilo narrativo en Twitter, al igual que en Twitter se ofrece el link a la página web en la biografía del perfil y en los tuits. De esta manera ambas plataformas quedan ligadas. Para reforzar dicha unión, hay un apartado en la página web dedicado únicamente a recoger el enlace a Twitter (página de inicio, parte inferior). Es muy importante señalar el uso en ambas plataformas de hashtags, ya que no solo mejoran el posicionamiento SEO de la página web y atraen tráfico, sino que facilitan la búsqueda de los usuarios a través de las palabras clave establecidas. 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
+*Twitter* La forma en la que se mide la reacción del usuario en Twitter es sencilla, ya que la red social ofrece un apartado que informa sobre la respuesta del usuario a tu actividad. Twitter muestra las impresiones, interacciones y tasa de interacción (%) de los usuarios, analizando los tuits. Se puede seleccionar el tuit del que interesa tener la información. Estos indicadores son reveladores, ya que gracias a ello se han conocido qué historias se han compartado más y cuántos 'me gusta', comentarios y reacciones han tenido. Twitter es una comunidad que además de facilitar el tráfico de visitas al blog, ofrece de forma gratuita esta información reveladora.  
+
+*Página web* El portal web se ha creado con Wix, plataforma que analiza el feedbak del lector. La versión utilizada ha sido la básica, por lo que se tiene acceso a escasa información sobre la reacción del usuario, sin embargo, por el momento son suficientes las opciones de 'me gusta', comentar y compartir para conocer las impresiones ha tenido el lector. 
 
 
 
@@ -95,18 +90,6 @@ Es una narración accesible que incluirá imágenes, vídeos, GIFs y emoticonos 
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
 
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
-
-
-
 
 ----
 
@@ -116,21 +99,11 @@ Referencias y recursos:
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
-
-
-
-
-
-
-
-
-
-
-
-
+* [Google imágenes] https://www.google.es/imghp?hl=es
+* [Wikipedia] https://es.wikipedia.org/wiki/Wikipedia:Portada 
+* [List.ly] https://list.ly/ 
+* [Xoyondo] https://xoyondo.com/
+* [Genial.ly] https://app.genial.ly/dashboard
+* [Wix] https://www.wix.com/website/builder#!/intro
+* [Twitter] https://twitter.com/
+* [Pinterest] https://www.pinterest.com.mx/ 
