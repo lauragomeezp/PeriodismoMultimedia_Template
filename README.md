@@ -16,6 +16,7 @@ Univesidad de Granada
 **Resumen** : Los cuentos Disney siempre se han narrado desde la perspectiva de sus protagonistas, en su mayoría, príncipes y princesas que sufren las amenazas de sus enemigos. Sin embargo, esta vez, se contará la versión de los villanos. En este proyecto se ha querido desvelar las historias personales de estos personajes que se han convertido en seres malvados y perversos. Con el uso de un portal web y la red social Twitter, se difundirán las publicaciones y se recibirá el feedback de los lectores, quienes pueden aportar ideas y sugerencias para los próximos relatos. Se trata de una iniciativa cuyo objetivo es entretener y hacer reflexionar sobre las diferentes perspectivas que puede llegar a tener una misma historia.   
 
 **logotipo** : 
+
 ![logo](https://imgur.com/a/TU2wxhx) 
 
 **Slogan** : "No todo es lo que parece"
@@ -136,3 +137,4 @@ En esta etapa del trabajo, se descarta la colaboración entendida como elaboraci
 * [Twitter] (https://twitter.com/)
 * [Pinterest] (https://www.pinterest.com.mx/) 
 * [Photoshop]
+* [Youtube] 
