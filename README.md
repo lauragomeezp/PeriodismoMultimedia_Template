@@ -130,13 +130,13 @@ En esta etapa del trabajo, se descarta la colaboración entendida como elaboraci
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* [Google imágenes] (https://www.google.es/imghp?hl=es)
-* [Wikipedia] (https://es.wikipedia.org/wiki/Wikipedia:Portada) 
-* [List.ly] (https://list.ly/) 
-* [Xoyondo] (https://xoyondo.com/)
-* [Genial.ly] (https://app.genial.ly/dashboard)
-* [Wix] (https://www.wix.com/website/builder#!/intro)
-* [Twitter] (https://twitter.com/)
-* [Pinterest] (https://www.pinterest.com.mx/) 
-* [Adobe Photoshop]
-* [Youtube] 
+* [Google imágenes](https://www.google.es/imghp?hl=es) 
+* [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada) 
+* [List.ly](https://list.ly/) 
+* [Xoyondo](https://xoyondo.com/)
+* [Genial.ly](https://app.genial.ly/dashboard)
+* [Wix](https://www.wix.com/website/builder#!/intro)
+* [Twitter](https://twitter.com/)
+* [Pinterest](https://www.pinterest.com.mx/) 
+* Adobe Photoshop
+* Youtube
